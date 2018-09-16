@@ -1,6 +1,6 @@
 ---
 title: Readme
-layout: post
+layout: default
 ---
 
 # Accessible Events Checklist
