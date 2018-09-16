@@ -1,6 +1,7 @@
-# Accessible Events Checklist
-
-> A checklist event organizers can use to see if their event is accessible to people with needs
+---
+title: Accessible Events
+layout: post
+---
 
 - Quiet room (could be a sleeping room)
 - strategy to ask people if they have needs before the event
