@@ -1,5 +1,5 @@
 ---
-title: Accessible Events
+title: Accessible Events Checklist
 layout: post
 ---
 
