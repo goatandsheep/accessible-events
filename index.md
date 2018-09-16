@@ -3,6 +3,8 @@ title: Accessible Events Checklist
 layout: post
 ---
 
+If you are an event organizer, please try to have the following available or ask those who sign up if they require them:
+
 - [ ] Quiet room (could be a sleeping room)
 - [ ] strategy to ask people if they have needs before the event
 - [ ] working escalators / elevators if there are events on multiple floors, strategies if they aren't working, reliability index
