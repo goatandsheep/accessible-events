@@ -1,8 +1,3 @@
----
-title: Accessible Events Checklist
-layout: post
----
-
 If you are an event organizer, please try to have the following available or ask those who sign up if they require them:
 
 - [ ] Quiet room (could be a sleeping room)
