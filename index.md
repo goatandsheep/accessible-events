@@ -12,5 +12,12 @@ If you are an event organizer, please try to have the following available or ask
 - Remote attendance
 - High toilets
 - Make sure stages have a ledge so people in wheelchairs don't roll off
+- Clear policy to let people choose their restroom or make available gender neutral restrooms
+- Alternative food choices for people with dietary restrictions
+- Transparent menu (when confirmed) for people with dietary restrictions
+- If you don't know how to accommodate someone's needs, ask them how they've been accommodated in the past
+- If you are accommodating someone's needs, make sure you have an alternative for if (and when) things are no longer available, including people finishing special food or escalators stop working.
 
-If you are accommodating someone's needs, make sure you have an alternative for if (and when) things are no longer available, including people finishing special food or escalators stop working. Please contribute any missing accommodations [through our form](https://goo.gl/forms/NIj3MaOZO169sHWJ3).
+If you are an event organizer and still need help strategizing how to accommodate a need, [let us know](https://goo.gl/forms/g8yYdS68aOAIo6ll1) and we'll find an expert.
+
+If you notice anything missing, please contribute [through our form](https://goo.gl/forms/NIj3MaOZO169sHWJ3).
