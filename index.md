@@ -13,7 +13,7 @@ If you are an event organizer, please try to have the following available or ask
 - [ ] people should be able to book parking ahead of time
 - [ ] people should be able to request caption typists
 - [ ] people should be able to book seating at the front of the room (even requiring glasses is a disability)
-- [ ] ability to join remotely??
+- [ ] ability to join remotely
 - [ ] VR headsets for people with visual impairments
 - [ ] people should be able to request ramps
 - [ ] people should be able to request high toilets
