@@ -14,4 +14,4 @@ If you are an event organizer, please try to have the following available or ask
 - People should be able to request high toilets
 - If people are sitting on a stage / podium, make sure it is ramped and has a back so people don't fall
 
-
+Please contribute any missing accommodations [through our form](https://goo.gl/forms/NIj3MaOZO169sHWJ3).
