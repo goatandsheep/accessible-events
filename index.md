@@ -1,17 +1,16 @@
 If you are an event organizer, please try to have the following available or ask those who sign up if they require them:
 
-- Quiet room (could be a sleeping room)
 - Strategy to ask people if they have needs before the event
-- Working escalators / elevators if there are events on multiple floors, strategies if they aren't working, reliability index
-- Contact escalator / elevator companies and ask them to collect data on reliability
-- If transportation is not available, subsidizing people to come by their own means
-- Availability to book parking ahead of time
-- Availability to request caption typists
-- People should be able to book seating at the front of the room (even requiring glasses is a disability)
-- Ability to join remotely
-- VR headsets for people with visual impairments
-- People should be able to request ramps
-- People should be able to request high toilets
-- If people are sitting on a stage / podium, make sure it is ramped and has a back so people don't fall
+- Quiet room (could be a sleeping room)
+- Baby feeding room
+- Escalators/elevators/ramps if there are events/washrooms on multiple floors/steps/stages/podiums
+- Contact escalator/elevator companies and ask them to collect data on reliability
+- If you are subsidizing transportation, such as a bus, ensure it is accessible or make available subsidies for people to come by their own means
+- Bookable parking spots closer to the entrance
+- Caption typists
+- Bookable seating at the front of the room (even requiring glasses is a disability)
+- Remote attendance
+- High toilets
+- Make sure stages have a ledge so people in wheelchairs don't roll off
 
-Please contribute any missing accommodations [through our form](https://goo.gl/forms/NIj3MaOZO169sHWJ3).
+If you are accommodating someone's needs, make sure you have an alternative for if (and when) things are no longer available, including people finishing special food or escalators stop working. Please contribute any missing accommodations [through our form](https://goo.gl/forms/NIj3MaOZO169sHWJ3).
