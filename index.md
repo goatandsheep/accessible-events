@@ -11,6 +11,9 @@ If you are an event organizer, please try to have the following available or ask
 - Bookable seating at the front of the room (even requiring glasses is a disability)
 - Remote attendance
 - High toilets
+- Do special washrooms have closing times within the time of your event?
+- Fragrance-free
+- Regulated temperature
 - Make sure stages have a ledge so people in wheelchairs don't roll off
 - Clear policy to let people choose their restroom or make available gender neutral restrooms
 - Alternative food choices for people with dietary restrictions
