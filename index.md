@@ -21,6 +21,7 @@ If you are an event organizer, please try to have the following available or ask
 - Transparent menu (when confirmed) for people with dietary restrictions
 - If you don't know how to accommodate someone's needs, ask them how they've been accommodated in the past
 - If you are accommodating someone's needs, make sure you have an alternative for if (and when) things are no longer available, including people finishing special food or escalators stop working.
+- Femenine hygeine products and disposals in washrooms
 
 If you are an event organizer and still need help strategizing how to accommodate a need, [let us know](https://goo.gl/forms/g8yYdS68aOAIo6ll1) and we'll find an expert.
 
