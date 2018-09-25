@@ -1,2 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Accommodations Checklist for Events
+kramdown:
+  input: GFM
+  
