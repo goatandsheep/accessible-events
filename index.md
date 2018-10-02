@@ -3,6 +3,7 @@ If you are an event organizer, please try to have the following available or ask
 # Before the Event:
 - [ ] Create a strategy/method to ask people if they have needs before the event
 - [ ] If you don't know how to accommodate someone's needs, ask them how they've been accommodated in the past
+- [ ] Schedule events around religious holidays
 
 ## Don't Forget Backups: 
 - [ ] If you are accommodating someone's needs, make sure you have an alternative for if (and when) things are no longer available, including people finishing special food or escalators stop working.
@@ -37,8 +38,11 @@ If you are an event organizer, please try to have the following available or ask
 - [ ] Feminine hygeine products and disposals in washrooms
 
 # Dietary Accomodations
-- [ ] Alternative food choices for people with dietary restrictions
+- [ ] Alternative food choices for people with dietary restrictions, such as allergies
 - [ ] Transparent menu (when confirmed) for people with dietary restrictions
+
+# After the event
+- [ ] Survey the guests to find if they were accommodated appropriately 
 
 
 If you are an event organizer and still need help strategizing how to accommodate a need, [let us know](https://goo.gl/forms/g8yYdS68aOAIo6ll1) and we'll find an expert.
