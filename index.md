@@ -4,6 +4,7 @@ If you are an event organizer, please try to have the following available or ask
 - [ ] Create a strategy/method to ask people if they have needs before the event
 - [ ] If you don't know how to accommodate someone's needs, ask them how they've been accommodated in the past
 - [ ] Schedule events around religious holidays
+- [ ] Outline physical requirements and dangers so people can decide if they can partake
 
 ## Don't Forget Backups: 
 - [ ] If you are accommodating someone's needs, make sure you have an alternative for if (and when) things are no longer available, including people finishing special food or escalators stop working.
@@ -18,6 +19,7 @@ If you are an event organizer, please try to have the following available or ask
 
 ## 🚫 Avoid
 - [ ] Large crowds and low roofs. This creates poor ventilation.
+- [ ] Events too late or too early for people who travel from far. Otherwise, help arrange group accommodations
 
 # Access to Space
 - [ ] Escalators/elevators/ramps if there are events/washrooms on multiple floors/steps/stages/podiums
@@ -30,6 +32,7 @@ If you are an event organizer, please try to have the following available or ask
 - [ ] Caption typists
 - [ ] Bookable seating at the front of the room (even requiring glasses is a disability)
 - [ ] Allow remote attendance
+- [ ] Speech at beginning pointing out facilities like garbage disposal, water, washrooms for those unfamiliar with the territory
 
 # Washrooms
 - [ ] High toilets
@@ -40,6 +43,7 @@ If you are an event organizer, please try to have the following available or ask
 # Dietary Accomodations
 - [ ] Alternative food choices for people with dietary restrictions, such as allergies
 - [ ] Transparent menu (when confirmed) for people with dietary restrictions
+- [ ] Have small snacks and water available at all times
 
 # After the event
 - [ ] Survey the guests to find if they were accommodated appropriately 
