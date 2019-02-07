@@ -5,6 +5,7 @@ If you are an event organizer, please try to have the following available or ask
 - [ ] If you don't know how to accommodate someone's needs, ask them how they've been accommodated in the past
 - [ ] Schedule events around religious holidays
 - [ ] Outline physical requirements and dangers so people can decide if they can partake
+- [ ] Check and send a copy of the floor plan
 
 ## Don't Forget Backups: 
 - [ ] If you are accommodating someone's needs, make sure you have an alternative for if (and when) things are no longer available, including people finishing special food or escalators stop working.
