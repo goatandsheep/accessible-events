@@ -40,6 +40,7 @@ If you are an event organizer, please try to have the following available or ask
 - [ ] Do special washrooms have closing times within the time of your event?
 - [ ] Clear policy to let people choose their restroom or make available gender neutral restrooms
 - [ ] Feminine hygeine products and disposals in washrooms
+- [ ] If faucets are not accessible by people with wheelchairs or require 2 hands to be used, ensure hand sanetizer stations are available close to or outside the exit
 
 # Dietary Accomodations
 - [ ] Alternative food choices for people with dietary restrictions, such as allergies
