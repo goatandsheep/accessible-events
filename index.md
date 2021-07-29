@@ -16,7 +16,7 @@ Accessibility is supposed to be pragmatic! This is a checklist of things you sho
 
 # Spaces
 - [ ] Quiet room (could be a sleeping room)
-- [ ] Baby feeding room
+- [ ] Feeding and changing rooms available to all genders
 
 ## 🚫 Avoid
 - [ ] Large crowds and low roofs. This creates poor ventilation.
@@ -35,14 +35,14 @@ Accessibility is supposed to be pragmatic! This is a checklist of things you sho
 - [ ] Bookable seating at the front of the room (even requiring glasses is a disability)
 - [ ] Allow remote attendance
 - [ ] Speech at beginning pointing out facilities like garbage disposal, water, washrooms for those unfamiliar with the territory
-- [ ] Figure out the languages of people attending and get tr
+- [ ] Figure out the languages of people attending and get translators or access to automatic translations if needed that are available to everyone
 
 # Washrooms
 - [ ] High toilets
 - [ ] Do special washrooms have closing times within the time of your event?
 - [ ] Clear policy to let people choose their restroom or make available gender neutral restrooms
 - [ ] Feminine hygeine products and disposals in washrooms
-- [ ] If faucets are not accessible by people with wheelchairs or require 2 hands to be used, ensure hand sanetizer stations are available close to or outside the exit
+- [ ] If faucets are not accessible by people with wheelchairs or require 2 hands to be used, ensure hand sanitizer stations are available close to or outside the exit
 
 # Dietary Accomodations
 - [ ] Alternative food choices for people with dietary restrictions, such as allergies
