@@ -42,7 +42,7 @@ Accessibility is supposed to be pragmatic! This is a checklist of things you sho
 - [ ] Do special washrooms have closing times within the time of your event?
 - [ ] Clear policy to let people choose their restroom or make available gender neutral restrooms
 - [ ] Feminine hygeine products and disposals in washrooms
-- [ ] If faucets are not accessible by people with wheelchairs or require 2 hands to be used, ensure hand sanitizer stations are available close to or outside the exit
+- [ ] If faucets are not accessible by people with wheelchairs or require 2 hands to be used, ensure hand sanitizer stations are available close to or outside the exit. Be weary if patrons require access to sanitizer that is not alcohol-based
 
 # Dietary Accomodations
 - [ ] Alternative food choices for people with dietary restrictions, such as allergies
