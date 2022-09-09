@@ -6,6 +6,7 @@ Accessibility is supposed to be pragmatic! This is a checklist of things you sho
 - [ ] Schedule events around religious holidays
 - [ ] Outline physical requirements and dangers so people can decide if they can partake
 - [ ] Check and send a copy of the floor plan
+- [ ] Send itinerary well in advance so people understand if they'd be able to attend certain events
 
 ## Don't Forget Backups
 - [ ] If you are accommodating someone's needs, make sure you have an alternative for if (and when) things are no longer available, including people finishing special food or escalators stop working.
